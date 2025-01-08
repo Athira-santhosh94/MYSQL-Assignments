@@ -1,6 +1,6 @@
 #Create a database companydb
 CREATE DATABASE Companydb;
-#Use the sales database
+#Use the Companydb database
 USE Companydb;
 #Create a table "Orders" with constraints
 CREATE TABLE Managers(
